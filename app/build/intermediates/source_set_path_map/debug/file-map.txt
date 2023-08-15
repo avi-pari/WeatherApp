@@ -1,0 +1,32 @@
+com.example.weatherapp-appcompat-resources-1.5.0-0 C:\Users\Admin\.gradle\caches\transforms-3\0307d4a57112093c4e29cd73f2e0b693\transformed\appcompat-resources-1.5.0\res
+com.example.weatherapp-lifecycle-process-2.4.1-1 C:\Users\Admin\.gradle\caches\transforms-3\0b8fad48a7a3196ec33dba4415b5e539\transformed\lifecycle-process-2.4.1\res
+com.example.weatherapp-recyclerview-1.1.0-2 C:\Users\Admin\.gradle\caches\transforms-3\0d15b7ac45b505d270a7568ea4581a9e\transformed\recyclerview-1.1.0\res
+com.example.weatherapp-savedstate-1.2.0-3 C:\Users\Admin\.gradle\caches\transforms-3\0e401bdc85f63a28eda467c0a87ce4e7\transformed\savedstate-1.2.0\res
+com.example.weatherapp-lifecycle-livedata-core-2.5.0-4 C:\Users\Admin\.gradle\caches\transforms-3\134623f2728692963118505069f763a9\transformed\lifecycle-livedata-core-2.5.0\res
+com.example.weatherapp-lifecycle-viewmodel-savedstate-2.5.0-5 C:\Users\Admin\.gradle\caches\transforms-3\2c130ebc1abae7f2c2cd1715c6635099\transformed\lifecycle-viewmodel-savedstate-2.5.0\res
+com.example.weatherapp-viewpager2-1.0.0-6 C:\Users\Admin\.gradle\caches\transforms-3\37bc0f101d0127e2c13049f8f60e5aa3\transformed\viewpager2-1.0.0\res
+com.example.weatherapp-annotation-experimental-1.1.0-7 C:\Users\Admin\.gradle\caches\transforms-3\48af812e4ecaacc19163a9c02c0defeb\transformed\annotation-experimental-1.1.0\res
+com.example.weatherapp-lifecycle-viewmodel-2.5.0-8 C:\Users\Admin\.gradle\caches\transforms-3\4927063761e0db85c33f14304c0f878c\transformed\lifecycle-viewmodel-2.5.0\res
+com.example.weatherapp-constraintlayout-2.1.4-9 C:\Users\Admin\.gradle\caches\transforms-3\65bd3fda41252f3c8fc42d2f90edaa3b\transformed\constraintlayout-2.1.4\res
+com.example.weatherapp-activity-1.5.0-10 C:\Users\Admin\.gradle\caches\transforms-3\6bb793743db42191f14118788994f57c\transformed\activity-1.5.0\res
+com.example.weatherapp-appcompat-1.5.0-11 C:\Users\Admin\.gradle\caches\transforms-3\8469931e4dd05e6311f17cca31aacdd9\transformed\appcompat-1.5.0\res
+com.example.weatherapp-coordinatorlayout-1.1.0-12 C:\Users\Admin\.gradle\caches\transforms-3\9d21bc0eff81205f33d4e082a2e5d3f1\transformed\coordinatorlayout-1.1.0\res
+com.example.weatherapp-transition-1.2.0-13 C:\Users\Admin\.gradle\caches\transforms-3\9de07a6f54354845b6dc810336119872\transformed\transition-1.2.0\res
+com.example.weatherapp-startup-runtime-1.1.1-14 C:\Users\Admin\.gradle\caches\transforms-3\aeae4544e70162b983097f7292ab7d28\transformed\startup-runtime-1.1.1\res
+com.example.weatherapp-core-ktx-1.8.0-15 C:\Users\Admin\.gradle\caches\transforms-3\b7e6f30cca2df52badcc23a55d98e02a\transformed\core-ktx-1.8.0\res
+com.example.weatherapp-core-1.8.0-16 C:\Users\Admin\.gradle\caches\transforms-3\c379f9198fd630c56c94b29d15dda332\transformed\core-1.8.0\res
+com.example.weatherapp-cardview-1.0.0-17 C:\Users\Admin\.gradle\caches\transforms-3\c5edeae63efef9564563081cdaa4be49\transformed\cardview-1.0.0\res
+com.example.weatherapp-lifecycle-runtime-2.5.0-18 C:\Users\Admin\.gradle\caches\transforms-3\cdc985ca2ffd172b1a2a2b04f266388a\transformed\lifecycle-runtime-2.5.0\res
+com.example.weatherapp-fragment-1.3.6-19 C:\Users\Admin\.gradle\caches\transforms-3\d4b518778a92ef0294e504de0cf8e43a\transformed\fragment-1.3.6\res
+com.example.weatherapp-emoji2-1.2.0-20 C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\res
+com.example.weatherapp-emoji2-views-helper-1.2.0-21 C:\Users\Admin\.gradle\caches\transforms-3\e3a70f1b364d4b0a135d471623acd779\transformed\emoji2-views-helper-1.2.0\res
+com.example.weatherapp-drawerlayout-1.1.1-22 C:\Users\Admin\.gradle\caches\transforms-3\ef68e88b218effbb107495c7b5d2691d\transformed\drawerlayout-1.1.1\res
+com.example.weatherapp-material-1.9.0-23 C:\Users\Admin\.gradle\caches\transforms-3\fecebbf5015e10505f85282ac9fae093\transformed\material-1.9.0\res
+com.example.weatherapp-pngs-24 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\generated\res\pngs\debug
+com.example.weatherapp-resValues-25 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\generated\res\resValues\debug
+com.example.weatherapp-rs-26 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\generated\res\rs\debug
+com.example.weatherapp-packageDebugResources-27 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.weatherapp-packageDebugResources-28 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.weatherapp-merged_res-29 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\build\intermediates\merged_res\debug
+com.example.weatherapp-debug-30 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\debug\res
+com.example.weatherapp-main-31 C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\res

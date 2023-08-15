@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <application
+15-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:9:5-31:19
+16        android:allowBackup="true"
+16-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\Admin\.gradle\caches\transforms-3\c379f9198fd630c56c94b29d15dda332\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:11:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:12:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:13:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:14:9-41
+24        android:supportsRtl="true"
+24-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.WeatherApp" >
+26-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:16:9-48
+27        <activity
+27-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:18:9-21:40
+28            android:name="com.example.weatherapp.WeatherActivity"
+28-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:19:13-44
+29            android:exported="false"
+29-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:21:13-37
+30            android:parentActivityName="com.example.weatherapp.MainActivity" />
+30-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:20:13-55
+31        <activity
+31-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:22:9-30:20
+32            android:name="com.example.weatherapp.MainActivity"
+32-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:23:13-41
+33            android:exported="true" >
+33-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:24:13-36
+34            <intent-filter>
+34-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:26:17-69
+35-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:28:17-77
+37-->C:\Users\Admin\OneDrive\Desktop\Android JAVA\WeatherApp\app\src\main\AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[com.squareup.picasso:picasso:2.8] C:\Users\Admin\.gradle\caches\transforms-3\b2d7fac9e4f59fc13d067b8326f5d3e9\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+42            android:name="com.squareup.picasso.PicassoProvider"
+42-->[com.squareup.picasso:picasso:2.8] C:\Users\Admin\.gradle\caches\transforms-3\b2d7fac9e4f59fc13d067b8326f5d3e9\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+43            android:authorities="com.example.weatherapp.com.squareup.picasso"
+43-->[com.squareup.picasso:picasso:2.8] C:\Users\Admin\.gradle\caches\transforms-3\b2d7fac9e4f59fc13d067b8326f5d3e9\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+44            android:exported="false" />
+44-->[com.squareup.picasso:picasso:2.8] C:\Users\Admin\.gradle\caches\transforms-3\b2d7fac9e4f59fc13d067b8326f5d3e9\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+45        <provider
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+47            android:authorities="com.example.weatherapp.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\dcb6d5c23b330c9df3936818e4a10a0d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\0b8fad48a7a3196ec33dba4415b5e539\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\0b8fad48a7a3196ec33dba4415b5e539\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\0b8fad48a7a3196ec33dba4415b5e539\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
